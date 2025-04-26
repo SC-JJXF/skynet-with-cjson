@@ -1,3 +1,7 @@
+本fork仓库使用应用了这个教程：https://github.com/hanxi/blog/issues/79，为 skynet 添加了json读写支持
+
+--------------------
+
 ## ![skynet logo](https://github.com/cloudwu/skynet/wiki/image/skynet_metro.jpg)
 
 Skynet is a multi-user Lua framework supporting the actor model, often used in games.
