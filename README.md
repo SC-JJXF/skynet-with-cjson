@@ -1,4 +1,4 @@
-本fork仓库使用应用了这个教程：https://github.com/hanxi/blog/issues/79，为 skynet 添加了json读写支持
+本fork仓库应用了这个教程：https://github.com/hanxi/blog/issues/79  ，为 skynet 添加了json读写支持
 
 --------------------
 
